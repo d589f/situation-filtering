@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 
-lib/
+
 .idea/
 
 # Исключение временных файлов и папок
